@@ -36,6 +36,6 @@ The output of your script should be similar to the results shown below.
 
 ## Submission Instructions
 
-All your source code should be pushed to the personal repository which you have created in step 1, along any necessary documentation explaining how to run your script.
+All your source code should be pushed to the personal repository which you have created in step 1, along with any necessary documentation explaining how to run your script.
 
-The url to the repository should be included in your application and made public by _____TBD_____ in order for it to be evaluated. If you have any questions regarding this challenge, please reach out to us through our [Facebook page](https://www.facebook.com/McGillAI/).
+The url to the repository should be included in your application and made public by **11:59 pm, September 10th, 2019** in order for it to be evaluated. If you have any questions regarding this challenge, please reach out to us through our [Facebook page](https://www.facebook.com/McGillAI/).
